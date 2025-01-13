@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there A´m Joshesumare👋
+
+🌱 I’m currently learning cairo..
+
 
 <!--
 **Joshesumare/joshesumare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
