@@ -2,7 +2,6 @@
 
 🌱 I’m currently learning cairo.
 
-
 🚗 I’m currently working on Uber driver.
 
 
