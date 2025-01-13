@@ -1,8 +1,8 @@
 ### Hi there I´m Joshesumare👋
 
-🌱 I’m currently learning cairo.
+ 📖 📒 📓 📔  I’m currently learning cairo. 📖 📒 📓 📔 📕 
 
-🚗 I’m currently working on Uber driver.
+ 🏎️ 🚗 🚙 🚘 I’m currently working on Uber driver. 🚘 🚙 🚗 🏎️
 
 
 <!--
