@@ -1,7 +1,7 @@
-## Hi there 👋
+### Hi there 👋
 
 <!--
-**Joshesumare/Joshesumare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lucienfer/lucienfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📊 GitHub Stats
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshesumare&layout=compact&langs_count=8&theme=dark)](https://github.com/joshesumare)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=lucienfer&show_icons=true&theme=dark)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joshesumare&theme=dark)](https://github.com/lucienfer)
